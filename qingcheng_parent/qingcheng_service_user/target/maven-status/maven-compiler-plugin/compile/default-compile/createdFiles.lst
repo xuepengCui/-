@@ -1,0 +1,10 @@
+com\qingcheng\dao\AddressMapper.class
+com\qingcheng\service\impl\CitiesServiceImpl.class
+com\qingcheng\dao\UserMapper.class
+com\qingcheng\dao\CitiesMapper.class
+com\qingcheng\service\impl\UserServiceImpl.class
+com\qingcheng\dao\ProvincesMapper.class
+com\qingcheng\dao\AreasMapper.class
+com\qingcheng\service\impl\AddressServiceImpl.class
+com\qingcheng\service\impl\AreasServiceImpl.class
+com\qingcheng\service\impl\ProvincesServiceImpl.class
